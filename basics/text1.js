@@ -1,1 +1,2 @@
-console.log("aman")
+console.log("aman pani")
+console.log("amrita panda")
