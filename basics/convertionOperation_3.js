@@ -21,3 +21,17 @@ let someNumber = 33
 let stringNumber = String(someNumber)
 console.log(stringNumber);
 console.log(typeof stringNumber);
+
+//********operations******* */
+
+let value =3
+let negValue= -value
+console.log(negValue); //-3
+console.log('2'+2); //22 ,it convert every num to string
+console.log(true); //true
+console.log(+true); //1
+console.log(+""); //0
+
+let game=100
+game++;
+console.log(game); //101
